@@ -1,0 +1,5 @@
+tupple1= ('nitin', 100 , 60.4)
+print(tupple1)
+print(tupple1[2])
+tupple=('abc',616161,91919919)
+print(tupple1+tupple)
